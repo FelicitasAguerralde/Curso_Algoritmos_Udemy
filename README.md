@@ -1,6 +1,11 @@
 ## Master the coding interview data structures algorithms (Udemy)
 
 - Notación BIg O
+![alt text](image-1.png)
+![alt text](image.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+(https://www.bigocheatsheet.com/)
 1. El peor de los casos: 
 Siempre analizamos el peor escenario posible.
 👉 Ejemplo:
